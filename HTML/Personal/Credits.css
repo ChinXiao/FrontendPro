@@ -1004,12 +1004,11 @@ button:hover {
   }
   .img-show {
     max-width: 900px;
-    max-height: 400px;
   }
   .img-show > img {
     padding: 0;
     width: 100%;
-    height: 100%;
+
   }
   .service-category{
     padding: 0;

@@ -589,7 +589,7 @@ button:hover {
 
 /* Layout for the right section */
 .layout-right {
-  transform: translate(125vh); /* Adjust this value as needed */
+  transform: translate(125vh); /*Adjust this value as needed*/
   margin-top: -320vh; /* Adjust this value as needed */
   display: flex;
   flex-direction: column;
@@ -968,6 +968,5 @@ p {
   .layout-right{
     transform: translate(0vh);
   }
-  
 }
 
